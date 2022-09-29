@@ -7,7 +7,7 @@ import { Button, Card, Col, Form, Row } from 'react-bootstrap';
 export const Bootstrap = () => {
 
   const style={
-    // width: '1000px'
+    width: '1000px'
   }
   return (
     <div>
